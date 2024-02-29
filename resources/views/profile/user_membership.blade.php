@@ -51,12 +51,81 @@
               <li>
                 <a href="hotel-details.html" class="d-flex align-items-center gap-12">
                   <div class="image shrink-0 overflow-hidden radius-8">
-                    <img src="../assets/images/home/budget-1.png" alt="Place" class="img-fluid w-100 h-100 object-fit-cover">
+                    <img src="../assets/images/home/off.webp" alt="Place" class="img-fluid w-100 h-100 object-fit-cover">
                   </div>
 
                   <div class="content shrink-0 d-flex align-items-center gap-12 justify-content-between flex-grow">
                     <div>
-                      <h4>Clasic</h4>
+                      <h4>CLASSIC</h4>
+                      <h5>
+                        Keuntungan<br>
+                        1<br>
+                        2<br>
+                      </h5>
+                      <div class="progress" style="height: 10px;">
+                        <div class="progress-bar bg-success" role="progressbar" style="width: 5%;" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100"></div>
+                      </div>
+                    </div>
+                    <p class="price"><span>10</span> %</p>
+                  </div>
+                </a>
+              </li>
+              <!-- item 2 -->
+              <li>
+                <a href="hotel-details.html" class="d-flex align-items-center gap-12">
+                  <div class="image shrink-0 overflow-hidden radius-8">
+                    <img src="../assets/images/home/silver.webp" alt="Place" class="img-fluid w-100 h-100 object-fit-cover">
+                  </div>
+
+                  <div class="content shrink-0 d-flex align-items-center gap-12 justify-content-between flex-grow">
+                    <div>
+                      <h4>SILVER</h4>
+                      <h5>
+                        Keuntungan<br>
+                        1<br>
+                        2<br>
+                      </h5>
+                      <div class="progress" style="height: 10px;">
+                        <div class="progress-bar bg-success" role="progressbar" style="width: 5%;" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100"></div>
+                      </div>
+                    </div>
+                    <p class="price"><span>10</span> %</p>
+                  </div>
+                </a>
+              </li>
+              <!-- item 2 -->
+              <li>
+                <a href="hotel-details.html" class="d-flex align-items-center gap-12">
+                  <div class="image shrink-0 overflow-hidden radius-8">
+                    <img src="../assets/images/home/gold.webp" alt="Place" class="img-fluid w-100 h-100 object-fit-cover">
+                  </div>
+
+                  <div class="content shrink-0 d-flex align-items-center gap-12 justify-content-between flex-grow">
+                    <div>
+                      <h4>GOLD</h4>
+                      <h5>
+                        Keuntungan<br>
+                        1<br>
+                        2<br>
+                      </h5>
+                      <div class="progress" style="height: 10px;">
+                        <div class="progress-bar bg-success" role="progressbar" style="width: 5%;" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100"></div>
+                      </div>
+                    </div>
+                    <p class="price"><span>10</span> %</p>
+                  </div>
+                </a>
+              </li>
+              <!-- item 2 -->
+              <li>
+                <a href="hotel-details.html" class="d-flex align-items-center gap-12">
+                  <div class="image shrink-0 overflow-hidden radius-8">
+                    <img src="../assets/images/home/diamond.webp" alt="Place" class="img-fluid w-100 h-100 object-fit-cover">
+                  </div>
+
+                  <div class="content shrink-0 d-flex align-items-center gap-12 justify-content-between flex-grow">
+                    <div>
+                      <h4>DIAMOND</h4>
                       <h5>
                         Keuntungan<br>
                         1<br>
