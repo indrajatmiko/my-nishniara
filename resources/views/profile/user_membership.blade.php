@@ -89,7 +89,7 @@
                         <div class="progress-bar bg-success" role="progressbar" style="width: 5%;" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
                     </div>
-                    <p class="price"><span>10</span> %</p>
+                    <p class="price"><span>0</span> %</p>
                   </div>
                 </a>
               </li>
@@ -112,7 +112,7 @@
                         <div class="progress-bar bg-success" role="progressbar" style="width: 5%;" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
                     </div>
-                    <p class="price"><span>10</span> %</p>
+                    <p class="price"><span>0</span> %</p>
                   </div>
                 </a>
               </li>
@@ -135,7 +135,7 @@
                         <div class="progress-bar bg-success" role="progressbar" style="width: 5%;" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
                     </div>
-                    <p class="price"><span>10</span> %</p>
+                    <p class="price"><span>0</span> %</p>
                   </div>
                 </a>
               </li>
